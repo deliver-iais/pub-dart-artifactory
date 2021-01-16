@@ -1,4 +1,4 @@
 name: deliver_public_protocol
-version: 1.7.0-pre.23
+version: PROTOCOL_VERSION
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
