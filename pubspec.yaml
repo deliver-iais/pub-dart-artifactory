@@ -1,4 +1,4 @@
 name: deliver_public_protocol
 version: PROTOCOL_VERSION
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: "'>=2.12.0 <3.0.0'"
